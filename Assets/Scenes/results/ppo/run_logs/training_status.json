@@ -1,0 +1,65 @@
+{
+    "AvoidObstacles": {
+        "checkpoints": [
+            {
+                "steps": 500001,
+                "file_path": "results\\ppo\\AvoidObstacles\\AvoidObstacles-500001.onnx",
+                "reward": 65.94085194160198,
+                "creation_time": 1683865806.8528183,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AvoidObstacles\\AvoidObstacles-500001.pt"
+                ]
+            },
+            {
+                "steps": 999981,
+                "file_path": "results\\ppo\\AvoidObstacles\\AvoidObstacles-999981.onnx",
+                "reward": 153.45499594618636,
+                "creation_time": 1683868347.809308,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AvoidObstacles\\AvoidObstacles-999981.pt"
+                ]
+            },
+            {
+                "steps": 1499991,
+                "file_path": "results\\ppo\\AvoidObstacles\\AvoidObstacles-1499991.onnx",
+                "reward": 145.71024385312708,
+                "creation_time": 1683868705.6741858,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AvoidObstacles\\AvoidObstacles-1499991.pt"
+                ]
+            },
+            {
+                "steps": 1999966,
+                "file_path": "results\\ppo\\AvoidObstacles\\AvoidObstacles-1999966.onnx",
+                "reward": 198.14596121651786,
+                "creation_time": 1683869051.678868,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AvoidObstacles\\AvoidObstacles-1999966.pt"
+                ]
+            },
+            {
+                "steps": 2000018,
+                "file_path": "results\\ppo\\AvoidObstacles\\AvoidObstacles-2000018.onnx",
+                "reward": 201.88663959503174,
+                "creation_time": 1683869051.729203,
+                "auxillary_file_paths": [
+                    "results\\ppo\\AvoidObstacles\\AvoidObstacles-2000018.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000018,
+            "file_path": "results\\ppo\\AvoidObstacles.onnx",
+            "reward": 201.88663959503174,
+            "creation_time": 1683869051.729203,
+            "auxillary_file_paths": [
+                "results\\ppo\\AvoidObstacles\\AvoidObstacles-2000018.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1"
+    }
+}

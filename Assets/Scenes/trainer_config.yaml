@@ -1,0 +1,4 @@
+behaviors:
+  AvoidObstacles:
+    trainer_type: ppo
+    max_steps: 2.0e6
